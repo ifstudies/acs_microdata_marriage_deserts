@@ -52,11 +52,11 @@ To create these visualizations, we grouped together contiguous regions in the sa
 
 [% of adults ages 15-64, by PUMA, who are married](maps/pct_married_puma_gradient_map.html)
 
-[*For comparison: % of householders ages 15-64, in the 2020 Decennial Census, by PUMA, who are married](maps/dec_census_pct_15_64_married_puma_gradient_map.html)
+[*For comparison: % of householders ages 15-64, in the 2020 Decennial Census, by PUMA, who are married*](maps/dec_census_pct_15_64_married_puma_gradient_map.html)
 
 [% of children, by PUMA, in a married-couple family](maps/pct_married_family_puma_gradient_map.html)
 
-[*For comparison: % of households with children, in the 2020 Decennial Census, who are led by a married couple](maps/dec_census_pct_15_64_married_puma_gradient_map.html)
+[*For comparison: % of households with children, in the 2020 Decennial Census, that are led by a married couple*](maps/dec_census_pct_15_64_married_puma_gradient_map.html)
 
 ## Data tables
 
