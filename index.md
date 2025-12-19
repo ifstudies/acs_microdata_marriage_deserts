@@ -7,7 +7,7 @@ This site shows maps and tables, at the PUMA* level, of two different metrics:
 
 These visualizations were created as a means of checking the findings within our main [Marriage Deserts](https://ifstudies.github.io/marriage_deserts/) site. That site's visualizations use the 2020 Decennial Census rather than the 2023 ACS5; in addition, they show household-level rather than individual-level statistics. As a result, the two sets of maps do not match exactly; however, many similar patterns are present in both.
 
-*PUMA is an abbreviation for *Public Use Microdata Area*.
+*PUMA is an abbreviation for Public Use Microdata Area.
 
 ## Categorical maps
 
@@ -52,11 +52,11 @@ To create these visualizations, we grouped together contiguous regions in the sa
 
 [% of adults ages 15-64, by PUMA, who are married](maps/pct_married_puma_gradient_map.html)
 
-[*For comparison: % of householders ages 15-64, in the 2020 Decennial Census, by PUMA, who are married*](maps/dec_census_pct_15_64_married_puma_gradient_map.html)
+[*For comparison: % of householders ages 15-64 in the 2020 Decennial Census, by PUMA, who are married*](maps/dec_census_pct_15_64_married_puma_gradient_map.html)
 
 [% of children, by PUMA, in a married-couple family](maps/pct_married_family_puma_gradient_map.html)
 
-[*For comparison: % of households with children, in the 2020 Decennial Census, that are led by a married couple*](maps/dec_census_pct_15_64_married_puma_gradient_map.html)
+[*For comparison: % of households with children in the 2020 Decennial Census, that are led by a married couple*](maps/dec_census_pct_married_family_puma_gradient_map.html)
 
 ## Data tables
 
