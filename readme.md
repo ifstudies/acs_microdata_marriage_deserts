@@ -1,1 +1,1 @@
-[Click here](https://ifstudies.github.io/acs_microdata_marriage_deserts/) to view rendered versions of the tables and maps stored in this repository.
+[Click here](https://ifstudies.github.io/acs_microdata_marriage_deserts/) to view rendered versions of the visualizations and tables stored in this repository.

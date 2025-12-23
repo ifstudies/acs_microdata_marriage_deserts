@@ -88,6 +88,8 @@ The following visualizations illustrate the differences in percentages/percentil
 
 ### Heatmaps
 
+*Note: the percentages displayed in these heatmaps reflect the percentage of PUMAs in each household-level category that are in each corresponding individual-level category. Thus, each column sums to 100% (excluding rounding-related distortions). 
+
 [Comparison of household- and adult-level marriage categories](acs_dec_comparisons/hh_adult_married_heatmap_comp.html)
 
 [Comparison of household- and child-level married-family categories](acs_dec_comparisons/hh_adult_married_family_heatmap_comp.html)
