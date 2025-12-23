@@ -46,8 +46,6 @@ To create these visualizations, we grouped together contiguous regions in the sa
 
 [Table of the top 100 grouped PUMA-level deserts](tables/100_largest_married_family_grouped_puma_gardens_by_population.html)
 
-
-
 ## Gradient maps
 
 [% of adults ages 15-64, by PUMA, who are married](maps/pct_married_puma_gradient_map.html)
@@ -63,6 +61,42 @@ To create these visualizations, we grouped together contiguous regions in the sa
 [% of adults ages 15-64, by PUMA, who are married](tables/pct_married_puma_table.html)
 
 [% of children, by PUMA, in a married-couple family](tables/pct_married_family_puma_table.html)
+
+## Comparisons of these individual-level percentages/percentiles with the 2020 Census-based ones that we calculated earlier
+
+The following visualizations illustrate the differences in percentages/percentiles between household-level metrics (calculated using 2020 Census data) and individual-level ones (calculated via ACS microdata).
+
+### Maps
+
+[Differences in household- and adult-level marriage prevalence](acs_dec_comparisons/hh_adult_married_diff_puma.html)
+
+[Differences in household- and adult-level marriage percentiles](acs_dec_comparisons/hh_adult_married_percentile_diff_puma.html)
+
+[Differences in household- and child-level married-family prevalence](acs_dec_comparisons/hh_child_married_family_diff_puma.html)
+
+[Differences in household- and child-level married-family percentiles](acs_dec_comparisons/hh_child_married_family_percentile_diff_puma.html)
+
+### Scatter plots
+
+[Comparison of household- and adult-level marriage prevalence](acs_dec_comparisons/hh_adult_married_scatter_comp.html)
+
+[Comparison of household- and adult-level marriage percentiles](acs_dec_comparisons/hh_adult_married_scatter_comp_percentile.html)
+
+[Comparison of household- and child-level married-family prevalence](acs_dec_comparisons/hh_child_married_family_scatter_comp.html)
+
+[Comparison of household- and child-level married-family percentiles](acs_dec_comparisons/hh_child_married_family_scatter_comp_percentile.html)
+
+### Heatmaps
+
+[Comparison of household- and adult-level marriage categories](acs_dec_comparisons/hh_adult_married_heatmap_comp.html)
+
+[Comparison of household- and child-level married-family categories](acs_dec_comparisons/hh_adult_married_family_heatmap_comp.html)
+
+### Overall %s:
+
+**78.8%** of PUMAs are in the same household- and adult-level marriage categories.
+
+**80.2%** of PUMAs are in the same household- and child-level married-family categories.
 
 ### Author:
 [Institute for Family Studies](https://ifstudies.org)
