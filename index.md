@@ -3,7 +3,7 @@
 This site shows maps and tables, at the PUMA* level, of two different metrics:
 
 1. The % of adults ages 15-64 who are married.
-2. The % of children who are being raised by a married mother and father. (Children who have one married parent at home and another living elsewhere, e.g. due to military service or work, are alse counted within this group.)
+2. The % of children under 18 who are being raised by a married couple. (Children who have one married parent at home and another living elsewhere, e.g. due to military service or work, are also counted within this group. Children who are already married were excluded from this analysis.)
 
 These visualizations were created as a means of checking the findings within our main [Marriage Deserts](https://ifstudies.github.io/marriage_deserts/) site. That site's visualizations use the 2020 Decennial Census rather than the 2023 ACS5; in addition, they show household-level rather than individual-level statistics. As a result, the two sets of maps do not match exactly; however, many similar patterns are present in both.
 
