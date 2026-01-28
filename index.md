@@ -98,7 +98,7 @@ The following visualizations illustrate the differences in percentages/percentil
 
 **78.5%** of PUMAs are in the same household- and adult-level marriage categories.
 
-**80.2%** of PUMAs are in the same household- and child-level married-family categories.
+**80.1%** of PUMAs are in the same household- and child-level married-family categories.
 
 ### Author:
 [Institute for Family Studies](https://ifstudies.org)
