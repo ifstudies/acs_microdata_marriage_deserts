@@ -11,7 +11,7 @@ These visualizations were created as a means of checking the findings within our
 
 ## Categorical maps
 
-These maps group regions into four different categories: *Deserts*, *Lower share* areas, *Higher share* areas, and *Highest-share* areas.
+These maps group regions into four different categories: *Deserts*, *Lower share* areas, *Higher share* areas, and *Gardens*.
 
 [% of adults ages 15-64, by PUMA, who are married](maps/pct_married_puma_categorical_map.html)
 
@@ -25,22 +25,22 @@ To create these visualizations, we grouped together contiguous regions in the sa
 
 *(Note: the population values shown within these maps and tables represent the number of adults ages 15-64 rather than the total population.)*
 
-[Map of the top 10 grouped PUMA-level deserts and highest-share areas](maps/pct_married_puma_top_10_deserts_and_gardens.html)
+[Map of the top 10 grouped PUMA-level deserts and gardens](maps/pct_married_puma_top_10_deserts_and_gardens.html)
 
-[Map of *all* grouped PUMA-level deserts and highest-share areas](maps/pct_married_puma_all_deserts_and_gardens.html)
+[Map of *all* grouped PUMA-level deserts and gardens](maps/pct_married_puma_all_deserts_and_gardens.html)
 
 [Table of the top 100 grouped PUMA-level deserts](tables/100_largest_marriage_grouped_puma_deserts_by_population.html)
 
-[Table of the top 100 grouped PUMA-level highest-share areas](tables/100_largest_marriage_grouped_puma_gardens_by_population.html)
+[Table of the top 100 grouped PUMA-level gardens](tables/100_largest_marriage_grouped_puma_gardens_by_population.html)
 
 
 ### Grouped married-family maps/tables
 
 *(Note: the population values shown within these maps and tables represent the number of unmarried children in each group rather than the total population.)*
 
-[Map of the top 10 grouped PUMA-level deserts and highest-share areas](maps/pct_married_family_puma_top_10_deserts_and_gardens.html)
+[Map of the top 10 grouped PUMA-level deserts and gardens](maps/pct_married_family_puma_top_10_deserts_and_gardens.html)
 
-[Map of *all* grouped PUMA-level deserts and highest-share areas](maps/pct_married_family_puma_all_deserts_and_gardens.html)
+[Map of *all* grouped PUMA-level deserts and gardens](maps/pct_married_family_puma_all_deserts_and_gardens.html)
 
 [Table of the top 100 grouped PUMA-level deserts](tables/100_largest_married_family_grouped_puma_deserts_by_population.html)
 
